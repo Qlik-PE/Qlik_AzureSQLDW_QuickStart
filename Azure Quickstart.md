@@ -5,9 +5,6 @@ General Notice
 Product names used herein are for identification purposes only, and may be
 trademarks of their respective companies.
 
-1 Background
-============
-
 Introduction
 ------------
 
