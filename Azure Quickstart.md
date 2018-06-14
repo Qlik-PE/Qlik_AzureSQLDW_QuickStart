@@ -217,4 +217,4 @@ Connecting Azure SQL DW to Qlik Sense
 
     ![](media/e7e98b86c03896e6e66823950f94b93b.png)
 
--   A copy of this sample app can be download here:
+-   A copy of this sample app can be download here:    (<https://github.com/Qlik-PE/Qlik_AzureSQLDW_QuickStart/blob/master/Azure%20SQL%20Data%20Warehouse.qvf>)
