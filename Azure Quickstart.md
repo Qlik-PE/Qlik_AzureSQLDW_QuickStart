@@ -2,12 +2,6 @@
 
 ![](media/03435d13233e6b6a22223854b5b42845.png)
 
-Version Control Notice
-
-This document is a controlled document that superseded all previous versions.
-Please discard any previous copies of this document dated prior to the version
-and publication date noted above this page.
-
 General Notice
 
 Product names used herein are for identification purposes only, and may be
