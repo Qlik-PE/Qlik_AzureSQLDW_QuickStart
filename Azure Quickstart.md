@@ -1,7 +1,5 @@
 ![](media/ada6d3720af02a83c87e8317d5b14b11.jpg)
 
-![](media/03435d13233e6b6a22223854b5b42845.png)
-
 General Notice
 
 Product names used herein are for identification purposes only, and may be
